@@ -1,0 +1,119 @@
+.container-fluid {
+  width: 100%;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+.container-fluid .row {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+.vanta-canvas {
+  padding: 0;
+}
+.container-fluid .row h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 5rem;
+  font-weight: 900;
+  font-style: italic;
+  color: #fff;
+  text-transform: uppercase;
+}
+.container-fluid .row h2 {
+  color: #fff;
+  text-transform: uppercase;
+}
+.container-fluid .row h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-style: italic;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.text-container a {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  color: white;
+  transition: 0.5s;
+}
+.text-container a:hover {
+  background-color: rgba(0, 0, 0, 0.144);
+  transition: 0.5s;
+}
+#fb:hover {
+  color: #1877f2;
+}
+#ig:hover {
+  color: #c32aa3;
+}
+#wp:hover {
+  color: #25d366;
+}
+#tw:hover {
+  color: #1da1f2;
+}
+#li:hover {
+  color: #0a66c2;
+}
+.text-container a i {
+  line-height: 35px;
+}
+hr {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-top: 1px solid #fff;
+}
+
+@media (max-width: 767px) {
+  .container-fluid .row h1 {
+    font-size: 2.4rem;
+  }
+  .container-fluid .row h3 {
+    font-size: 1rem;
+  }
+}
+
+.conteo div {
+  text-align: center;
+  border: 2px solid rgba(255, 255, 255, 0.8);
+  border-radius: 8px;
+  margin: 10px 10px;
+  width: 100px;
+  padding: 10px;
+}
+.conteo div h3 {
+  font-weight: 700;
+  font-size: 32px;
+  margin-bottom: 5px;
+}
+.conteo div h4 {
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-style: italic;
+  margin-bottom: 0;
+}
+@media (max-width: 575px) {
+  .conteo div {
+    width: 70px;
+    padding: 10px 0;
+    margin: 10px 8px;
+  }
+  .conteo div h3 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .conteo div h4 {
+    font-size: 14px;
+    font-weight: 500;
+  }
+}
