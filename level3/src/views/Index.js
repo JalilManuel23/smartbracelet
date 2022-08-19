@@ -14,20 +14,14 @@ export default function Index() {
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
               <h2 className="font-semibold text-4xl text-blueGray-600">
-                Notus React - A beautiful extension for Tailwind CSS.
+                LEVEL 3 | Software Development
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                Notus React is Free and Open Source. It does not change any of
-                the CSS from{" "}
-                <a
-                  href="https://tailwindcss.com/?ref=creativetim"
-                  className="text-blueGray-600"
-                  target="_blank"
-                >
-                  Tailwind CSS
-                </a>
-                . It features multiple HTML elements and it comes with dynamic
-                components for ReactJS, Vue and Angular.
+                Somos una empresa 100% duranguense, endocada en la creación de software
+                Nuestro objetivo es el de satisfacer las necesidades que el cambiante y competitivo 
+                mercado demanda en la actualidad, aportando soluciones que no se circunscriban únicamente 
+                al desarrollo del software, sino que con un enfoque más amplio, permitan a nuestros clientes 
+                optimizar su gestión, clave de la competitividad.
               </p>
               <div className="mt-12">
                 <a
@@ -35,14 +29,14 @@ export default function Index() {
                   target="_blank"
                   className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 >
-                  Get started
+                  Conocenos
                 </a>
                 <a
                   href="https://github.com/creativetimofficial/notus-react?ref=nr-index"
                   className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                   target="_blank"
                 >
-                  Github Star
+                  Proyectos
                 </a>
               </div>
             </div>
@@ -98,13 +92,13 @@ export default function Index() {
                     ></polygon>
                   </svg>
                   <h4 className="text-xl font-bold text-white">
-                    Great for your awesome project
+                    Especialistas en desarrollo de software
                   </h4>
                   <p className="text-md font-light mt-2 text-white">
-                    Putting together a page has never been easier than matching
-                    together pre-made components. From landing pages
-                    presentation to login areas, you can easily customise and
-                    built your pages.
+                  Nuestros estudios son unidades operativas que fomentan la creatividad y la innovación
+                  con un enfoque multi-industria.
+                  Utilizamos las últimas tecnologías para llevarte desde la ideación y la estrategia 
+                  pasando por la creación de software, testing, mantenimiento y soporte.
                   </p>
                 </blockquote>
               </div>
@@ -119,11 +113,10 @@ export default function Index() {
                         <i className="fas fa-sitemap"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                        CSS Components
+                        Personalización
                       </h6>
                       <p className="mb-4 text-blueGray-500">
-                        Notus React comes with a huge number of Fully Coded CSS
-                        components.
+                        Nuestras soluciones de desarrollo web facilitan los flujos de trabajo, aumentan los ingresos y optimizan las operaciones comerciales
                       </p>
                     </div>
                   </div>
@@ -133,11 +126,10 @@ export default function Index() {
                         <i className="fas fa-drafting-compass"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                        JavaScript Components
+                        Implementación
                       </h6>
                       <p className="mb-4 text-blueGray-500">
-                        We also feature many dynamic components for React,
-                        NextJS, Vue and Angular.
+                      Diseñamos un plan de implementación y despliegue de software a profundidad, evaluando las necesidades de su empresa, para así brindar tecnologías mejoradas a los usuarios finales.
                       </p>
                     </div>
                   </div>
@@ -148,10 +140,9 @@ export default function Index() {
                       <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                         <i className="fas fa-newspaper"></i>
                       </div>
-                      <h6 className="text-xl mb-1 font-semibold">Pages</h6>
+                      <h6 className="text-xl mb-1 font-semibold">Desarrollo de API</h6>
                       <p className="mb-4 text-blueGray-500">
-                        This extension also comes with 3 sample pages. They are
-                        fully coded so you can start working instantly.
+                      Desarrollamos APIs confiables, bien documentadas y fáciles de consumir que permiten integraciones flexibles y personalización de productos de software existentes.
                       </p>
                     </div>
                   </div>
@@ -161,11 +152,10 @@ export default function Index() {
                         <i className="fas fa-file-alt"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                        Documentation
+                        Integración
                       </h6>
                       <p className="mb-4 text-blueGray-500">
-                        Built by developers for developers. You will love how
-                        easy is to to work with Notus React.
+                        Nuestros ingenieros de integración de software adoptan nuevas tecnologías y procesos para superar posibles desafíos, desde el diseño arquitectónico hasta las pruebas y la ejecución.
                       </p>
                     </div>
                   </div>
@@ -174,246 +164,376 @@ export default function Index() {
             </div>
           </div>
         </div>
-
-        <div className="container mx-auto overflow-hidden pb-20">
-          <div className="flex flex-wrap items-center">
-            <div className="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
-              <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
-                <i className="fas fa-sitemap text-xl"></i>
-              </div>
-              <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                CSS Components
-              </h3>
-              <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                Every element that you need in a product comes built in as a
-                component. All components fit perfectly with each other and can
-                have different colours.
-              </p>
-              <div className="block pb-6">
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Buttons
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Inputs
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Labels
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Menus
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Navbars
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Pagination
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Progressbars
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Typography
-                </span>
-              </div>
-              <a
-                href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=nr-index"
-                target="_blank"
-                className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
-              >
-                View All{" "}
-                <i className="fa fa-angle-double-right ml-1 leading-relaxed"></i>
-              </a>
-            </div>
-
-            <div className="w-full md:w-5/12 px-4 mr-auto ml-auto mt-32">
-              <div className="relative flex flex-col min-w-0 w-full mb-6 mt-48 md:mt-0">
-                <img
-                  alt="..."
-                  src={require("assets/img/component-btn.png").default}
-                  className="w-full align-middle rounded absolute shadow-lg max-w-100-px z-3 left-145-px -top-29-px"
-                />
-                <img
-                  alt="..."
-                  src={require("assets/img/component-profile-card.png").default}
-                  className="w-full align-middle rounded-lg absolute shadow-lg -top-160-px left-260-px max-w-210-px"
-                />
-                <img
-                  alt="..."
-                  src={require("assets/img/component-info-card.png").default}
-                  className="w-full align-middle rounded-lg absolute shadow-lg max-w-180-px -top-225-px left-40-px z-2"
-                />
-                <img
-                  alt="..."
-                  src={require("assets/img/component-info-2.png").default}
-                  className="w-full align-middle rounded-lg absolute shadow-2xl max-w-200-px -left-50-px top-25-px"
-                />
-                <img
-                  alt="..."
-                  src={require("assets/img/component-menu.png").default}
-                  className="w-full align-middle rounded absolute shadow-lg max-w-580-px -left-20-px top-210-px"
-                />
-                <img
-                  alt="..."
-                  src={require("assets/img/component-btn-pink.png").default}
-                  className="w-full align-middle rounded absolute shadow-xl max-w-120-px left-195-px top-95-px"
-                />
+        <main>
+        <div className="relative pt-16 pb-32 flex content-center items-center justify-center min-h-screen-75">
+          <div
+            className="absolute top-0 w-full h-full bg-center bg-cover"
+            style={{
+              backgroundImage:
+                "url('https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80')",
+            }}
+          >
+            <span
+              id="blackOverlay"
+              className="w-full h-full absolute opacity-75 bg-black"
+            ></span>
+          </div>
+          <div className="container relative mx-auto">
+            <div className="items-center flex flex-wrap">
+              <div className="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
+                <div className="pr-12">
+                  <h1 className="text-white font-semibold text-5xl">
+                    Conoce nuestro equipo desarrollador
+                  </h1>
+                  <p className="mt-4 text-lg text-blueGray-200">
+                    En <b>LEVEL 3 | Software Development</b> 
+                  </p>
+                </div>
               </div>
             </div>
           </div>
-
-          <div className="flex flex-wrap items-center pt-32">
-            <div className="w-full md:w-6/12 px-4 mr-auto ml-auto mt-32">
-              <div className="justify-center flex flex-wrap relative">
-                <div className="my-4 w-full lg:w-6/12 px-4">
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/svelte/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-red-600 shadow-lg rounded-lg text-center p-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/svelte.jpg"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        Svelte
-                      </p>
-                    </div>
-                  </a>
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-lightBlue-500 shadow-lg rounded-lg text-center p-8 mt-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react.jpg"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        ReactJS
-                      </p>
-                    </div>
-                  </a>
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-blueGray-700 shadow-lg rounded-lg text-center p-8 mt-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        NextJS
-                      </p>
-                    </div>
-                  </a>
-                </div>
-                <div className="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-yellow-500 shadow-lg rounded-lg text-center p-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/js.png"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        JavaScript
-                      </p>
-                    </div>
-                  </a>
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/angular/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-red-700 shadow-lg rounded-lg text-center p-8 mt-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular.jpg"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        Angular
-                      </p>
-                    </div>
-                  </a>
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/vue/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-emerald-500 shadow-lg rounded-lg text-center p-8 mt-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue.jpg"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        Vue.js
-                      </p>
-                    </div>
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div className="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
-              <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
-                <i className="fas fa-drafting-compass text-xl"></i>
-              </div>
-              <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                Javascript Components
-              </h3>
-              <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                In order to create a great User Experience some components
-                require JavaScript. In this way you can manipulate the elements
-                on the page and give more options to your users.
-              </p>
-              <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                We created a set of Components that are dynamic and come to help
-                you.
-              </p>
-              <div className="block pb-6">
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Alerts
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Dropdowns
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Menus
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Modals
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Navbars
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Popovers
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Tabs
-                </span>
-                <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Tooltips
-                </span>
-              </div>
-              <a
-                href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=nr-index"
-                target="_blank"
-                className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
-              >
-                View all{" "}
-                <i className="fa fa-angle-double-right ml-1 leading-relaxed"></i>
-              </a>
-            </div>
+          <div
+            className="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden h-70-px"
+            style={{ transform: "translateZ(0)" }}
+          >
+            <svg
+              className="absolute bottom-0 overflow-hidden"
+              xmlns="http://www.w3.org/2000/svg"
+              preserveAspectRatio="none"
+              version="1.1"
+              viewBox="0 0 2560 100"
+              x="0"
+              y="0"
+            >
+              <polygon
+                className="text-blueGray-200 fill-current"
+                points="2560 0 2560 100 0 100"
+              ></polygon>
+            </svg>
           </div>
         </div>
+
+        <section className="pb-20 bg-blueGray-200 -mt-24">
+          <div className="container mx-auto px-4">
+            <div className="flex flex-wrap">
+              <div className="lg:pt-12 pt-6 w-full md:w-4/12 px-4 text-center">
+                <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
+                  <div className="px-4 py-5 flex-auto">
+                    <div className="relative flex flex-col min-w-0 break-words bg-white w-full mt-16">
+                      <div className="px-6">
+                        <div className="flex flex-wrap justify-center">
+                          <div className="w-full px-4 flex justify-center">
+                            <div className="relative">
+                              <img
+                                alt="..."
+                                src={require("assets/img/gerardo.jfif").default}
+                                className="shadow-xl rounded-full h-auto align-middle border-none absolute -m-16 -ml-20 lg:-ml-16 max-w-150-px"
+                              />
+                            </div>
+                          </div>
+                          <div className="w-full px-4 text-center mt-20">
+                            <div className="flex justify-center py-4 lg:pt-4 pt-8">
+                              <div className="p-3 text-center">
+                                <span className="text-xl font-bold block tracking-wide text-blueGray-600">
+                                  T.S.U. Gerardo Ceseñas
+                                </span>
+                                <span className="text-sm text-blueGray-400">Desarrollador Front-End</span>
+                                <div className="mt-2 lg:mb-0 mb-5">
+                                  <button
+                                    className="bg-white text-lightBlue-600 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                                    type="button" title="Gerardo Ceseñas | Linkedin"
+                                  >
+                                    <i className="fab fa-linkedin"></i>
+                                  </button>
+                                  <button
+                                    className="bg-white text-blueGray-800 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                                    type="button" title="Gerardo Ceseñas | GitHub"
+                                  >
+                                    <i className="fab fa-github"></i>
+                                  </button>
+                                  <button
+                                    className="bg-white text-pink-800 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                                    type="button" title="Gerardo Ceseñas | Whatsapp"
+                                  >
+                                    <i className="fab fa-whatsapp"></i>
+                                  </button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="w-full md:w-4/12 px-4 text-center">
+                <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
+                  <div className="px-4 py-5 flex-auto">
+                  <div className="relative flex flex-col min-w-0 break-words bg-white w-full mt-16">
+                    <div className="px-6">
+                      <div className="flex flex-wrap justify-center">
+                        <div className="w-full px-4 flex justify-center">
+                          <div className="relative">
+                            <img
+                              alt="..."
+                              src={require("assets/img/jalil.jpg").default}
+                              className="shadow-xl rounded-full h-auto align-middle border-none absolute -m-16 -ml-20 lg:-ml-16 max-w-150-px"
+                            />
+                          </div>
+                        </div>
+                        <div className="w-full px-4 text-center mt-20">
+                          <div className="flex justify-center py-4 lg:pt-4 pt-8">
+                            <div className="p-3 text-center">
+                              <span className="text-xl font-bold block tracking-wide text-blueGray-600">
+                                T.S.U. Mariela Hernández
+                              </span>
+                              <span className="text-sm text-blueGray-400">Administradora de Base de Datos</span>
+                              <div className="mt-2 lg:mb-0 mb-5">
+                                <button
+                                  className="bg-white text-lightBlue-600 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                                  type="button" title="Mariela Hernández | Linkedin"
+                                >
+                                  <i className="fab fa-linkedin"></i>
+                                </button>
+                                <button
+                                  className="bg-white text-blueGray-800 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                                  type="button" title="Mariela Hernández | GitHub"
+                                >
+                                  <i className="fab fa-github"></i>
+                                </button>
+                                <button
+                                  className="bg-white text-blueGray-800 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                                  type="button" title="Mariela Hernández | Whatsapp"
+                                >
+                                  <i className="fab fa-whatsapp"></i>
+                                </button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="pt-6 w-full md:w-4/12 px-4 text-center">
+                <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
+                  <div className="px-4 py-5 flex-auto">
+                  <div className="relative flex flex-col min-w-0 break-words bg-white w-full mt-16">
+                  <div className="px-6">
+                    <div className="flex flex-wrap justify-center">
+                      <div className="w-full px-4 flex justify-center">
+                        <div className="relative">
+                          <img
+                            alt="..."
+                            src={require("assets/img/jalil.jpg").default}
+                            className="shadow-xl rounded-full h-auto align-middle border-none absolute -m-16 -ml-20 lg:-ml-16 max-w-150-px"
+                          />
+                        </div>
+                      </div>
+                      <div className="w-full px-4 text-center mt-20">
+                        <div className="flex justify-center py-4 lg:pt-4 pt-8">
+                          <div className="p-3 text-center">
+                            <span className="text-xl font-bold block tracking-wide text-blueGray-600">
+                              T.S.U. Jalil López
+                            </span>
+                            <span className="text-sm text-blueGray-400">Desarrollador Back-End</span>
+                            <div className="mt-2 lg:mb-0 mb-5">
+                              <button
+                                className="bg-white text-lightBlue-600 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                                type="button" title="Jalil López | Linkedin"
+                              >
+                                <i className="fab fa-linkedin"></i>
+                              </button>
+                              <button
+                                className="bg-white text-blueGray-800 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                                type="button" title="Jalil López| GitHub"
+                              >
+                                <i className="fab fa-github"></i>
+                              </button>
+                              <button
+                                className="bg-white text-blueGray-800 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
+                                type="button" title="Jalil López| Whatsapp"
+                              >
+                                <i className="fab fa-whatsapp"></i>
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="relative py-20">
+          <div
+            className="bottom-auto top-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden -mt-20 h-20"
+            style={{ transform: "translateZ(0)" }}
+          >
+            <svg
+              className="absolute bottom-0 overflow-hidden"
+              xmlns="http://www.w3.org/2000/svg"
+              preserveAspectRatio="none"
+              version="1.1"
+              viewBox="0 0 2560 100"
+              x="0"
+              y="0"
+            >
+              <polygon
+                className="text-white fill-current"
+                points="2560 0 2560 100 0 100"
+              ></polygon>
+            </svg>
+          </div>
+
+          <div className="container mx-auto px-4">
+            <div className="items-center flex flex-wrap">
+              <div className="w-full md:w-4/12 ml-auto mr-auto px-4">
+                <img
+                  alt="..."
+                  className="max-w-full rounded-lg shadow-lg"
+                  src="https://images.unsplash.com/photo-1555212697-194d092e3b8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+                />
+              </div>
+              <div className="w-full md:w-5/12 ml-auto mr-auto px-4">
+                <div className="md:pr-12">
+                  <div className="text-lightBlue-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-lightBlue-300">
+                    <i className="fas fa-rocket text-xl"></i>
+                  </div>
+                  <h3 className="text-3xl font-semibold">Siempre innovando</h3>
+                  <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
+                  Nuestro primer paso, es elegir sólo los mejores proyectos. 
+                  Después no importa cuán buena sea la idea o que tan seguro nuestro cliente es, 
+                  evaluamos la idea a través de un riguroso proceso de validación, ejecución y racionalización. 
+                  Sólo así estaremos listos para diseñar y construir.
+                  </p>
+                  <ul className="list-none mt-6">
+                    <li className="py-2">
+                      <div className="flex items-center">
+                        <div>
+                          <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-lightBlue-600 bg-lightBlue-200 mr-3">
+                            <i className="fas fa-fingerprint"></i>
+                          </span>
+                        </div>
+                        <div>
+                          <h4 className="text-blueGray-500">
+                          Aplicaciónes multiplataforma
+                          </h4>
+                        </div>
+                      </div>
+                    </li>
+                    <li className="py-2">
+                      <div className="flex items-center">
+                        <div>
+                          <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-lightBlue-600 bg-lightBlue-200 mr-3">
+                            <i className="fab fa-html5"></i>
+                          </span>
+                        </div>
+                        <div>
+                          <h4 className="text-blueGray-500">
+                            Diseño UX/UI
+                          </h4>
+                        </div>
+                      </div>
+                    </li>
+                    <li className="py-2">
+                      <div className="flex items-center">
+                        <div>
+                          <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-lightBlue-600 bg-lightBlue-200 mr-3">
+                            <i className="far fa-paper-plane"></i>
+                          </span>
+                        </div>
+                        <div>
+                          <h4 className="text-blueGray-500">
+                            Documentación
+                          </h4>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="pb-20 relative block bg-blueGray-800">
+          <div
+            className="bottom-auto top-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden -mt-20 h-20"
+            style={{ transform: "translateZ(0)" }}
+          >
+            <svg
+              className="absolute bottom-0 overflow-hidden"
+              xmlns="http://www.w3.org/2000/svg"
+              preserveAspectRatio="none"
+              version="1.1"
+              viewBox="0 0 2560 100"
+              x="0"
+              y="0"
+            >
+              <polygon
+                className="text-blueGray-800 fill-current"
+                points="2560 0 2560 100 0 100"
+              ></polygon>
+            </svg>
+          </div>
+
+          <div className="container mx-auto px-4 lg:pt-24 lg:pb-34">
+            <div className="flex flex-wrap text-center justify-center">
+              <div className="w-full lg:w-6/12 px-4">
+                <h2 className="text-4xl font-semibold text-white">
+                  Nuestros principios
+                </h2>
+              </div>
+            </div>
+            <div className="flex flex-wrap mt-12 justify-center">
+              <div className="w-full lg:w-3/12 px-4 text-center">
+                <div className="text-blueGray-800 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center">
+                  <i className="fas fa-medal text-xl"></i>
+                </div>
+                <h6 className="text-xl mt-5 font-semibold text-white">
+                  Calidad de servicio
+                </h6>
+                <p className="mt-2 mb-4 text-blueGray-400">
+                Nos especializamos en el diseño de aplicaciones web y móvil de cada empresa con los requerimientos necesarios en su giro o industria además de posicionar su sitio web o tienda virtual.
+                </p>
+              </div>
+              <div className="w-full lg:w-3/12 px-4 text-center">
+                <div className="text-blueGray-800 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center">
+                  <i className="fas fa-poll text-xl"></i>
+                </div>
+                <h5 className="text-xl mt-5 font-semibold text-white">
+                  Equipo de trabajo
+                </h5>
+                <p className="mt-2 mb-4 text-blueGray-400">
+                Una de las claves de éxito de nuestra compañía ha sido la conformación de ‘un gran equipo de trabajo’. Para nosotros desarrollar proyectos exitosamente no depende únicamente de tener a buenos profesionales
+                </p>
+              </div>
+              <div className="w-full lg:w-3/12 px-4 text-center">
+                <div className="text-blueGray-800 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center">
+                  <i className="fas fa-lightbulb text-xl"></i>
+                </div>
+                <h5 className="text-xl mt-5 font-semibold text-white">
+                  Compromiso
+                </h5>
+                <p className="mt-2 mb-4 text-blueGray-400">
+                Nuestros productos y nuestra cultura apuntan a garantizar que los equipos sepan quién hace qué, para cuándo y por qué, para que todos se sientan libres como para lograr las mejores experiencias y resultados laborales.  
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
 
         <div className="container mx-auto px-4 pb-32 pt-48">
           <div className="items-center flex flex-wrap">
@@ -423,13 +543,13 @@ export default function Index() {
                   <i className="fas fa-file-alt text-xl"></i>
                 </div>
                 <h3 className="text-3xl font-semibold">
-                  Complex Documentation
+                  Smart Bracelet
                 </h3>
                 <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                  This extension comes a lot of fully coded examples that help
-                  you get started faster. You can adjust the colors and also the
-                  programming language. You can change the text and images and
-                  you're good to go.
+                  Pulsera con geolocalizador en tiempo real la mujer se sienta protegida en cualquier momento,
+                  dicha pulsera cuanta con alarma qué notifica a las autoridades cuando la persona que la use
+                  se encuentrá en una zona peligrosa, además de que cuenta con un botón, el cual puede ser presionado
+                  cuando la persona se encuentré en peligro.
                 </p>
                 <ul className="list-none mt-6">
                   <li className="py-2">
@@ -441,7 +561,7 @@ export default function Index() {
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Built by Developers for Developers
+                          Mapas de zonas de peligro
                         </h4>
                       </div>
                     </div>
@@ -455,7 +575,7 @@ export default function Index() {
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Carefully crafted code for Components
+                          Botones de busqueda
                         </h4>
                       </div>
                     </div>
@@ -469,7 +589,7 @@ export default function Index() {
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Dynamic Javascript Components
+                          Aplicación móvil
                         </h4>
                       </div>
                     </div>
@@ -492,115 +612,9 @@ export default function Index() {
           </div>
         </div>
 
-        <div className="justify-center text-center flex flex-wrap mt-24">
-          <div className="w-full md:w-6/12 px-12 md:px-4">
-            <h2 className="font-semibold text-4xl">Beautiful Example Pages</h2>
-            <p className="text-lg leading-relaxed mt-4 mb-4 text-blueGray-500">
-              Notus React is a completly new product built using our past
-              experience in web templates. Take the examples we made for you and
-              start playing with them.
-            </p>
-          </div>
-        </div>
       </section>
 
-      <section className="block relative z-1 bg-blueGray-600">
-        <div className="container mx-auto">
-          <div className="justify-center flex flex-wrap">
-            <div className="w-full lg:w-12/12 px-4  -mt-24">
-              <div className="flex flex-wrap">
-                <div className="w-full lg:w-4/12 px-4">
-                  <h5 className="text-xl font-semibold pb-4 text-center">
-                    Login Page
-                  </h5>
-                  <Link to="/auth/login">
-                    <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
-                      <img
-                        alt="..."
-                        className="align-middle border-none max-w-full h-auto rounded-lg"
-                        src={require("assets/img/login.jpg").default}
-                      />
-                    </div>
-                  </Link>
-                </div>
 
-                <div className="w-full lg:w-4/12 px-4">
-                  <h5 className="text-xl font-semibold pb-4 text-center">
-                    Profile Page
-                  </h5>
-                  <Link to="/profile">
-                    <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
-                      <img
-                        alt="..."
-                        className="align-middle border-none max-w-full h-auto rounded-lg"
-                        src={require("assets/img/profile.jpg").default}
-                      />
-                    </div>
-                  </Link>
-                </div>
-
-                <div className="w-full lg:w-4/12 px-4">
-                  <h5 className="text-xl font-semibold pb-4 text-center">
-                    Landing Page
-                  </h5>
-                  <Link to="/landing">
-                    <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
-                      <img
-                        alt="..."
-                        className="align-middle border-none max-w-full h-auto rounded-lg"
-                        src={require("assets/img/landing.jpg").default}
-                      />
-                    </div>
-                  </Link>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section className="py-20 bg-blueGray-600 overflow-hidden">
-        <div className="container mx-auto pb-64">
-          <div className="flex flex-wrap justify-center">
-            <div className="w-full md:w-5/12 px-12 md:px-4 ml-auto mr-auto md:mt-64">
-              <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
-                <i className="fas fa-code-branch text-xl"></i>
-              </div>
-              <h3 className="text-3xl mb-2 font-semibold leading-normal text-white">
-                Open Source
-              </h3>
-              <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-400">
-                Since{" "}
-                <a
-                  href="https://tailwindcss.com/?ref=creativetim"
-                  className="text-blueGray-300"
-                  target="_blank"
-                >
-                  Tailwind CSS
-                </a>{" "}
-                is an open source project we wanted to continue this movement
-                too. You can give this version a try to feel the design and also
-                test the quality of the code!
-              </p>
-              <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-400">
-                Get it free on Github and please help us spread the news with a
-                Star!
-              </p>
-              <a
-                href="https://github.com/creativetimofficial/notus-react?ref=nr-index"
-                target="_blank"
-                className="github-star mt-4 inline-block text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
-              >
-                Github Star
-              </a>
-            </div>
-
-            <div className="w-full md:w-4/12 px-4 mr-auto ml-auto mt-32 relative">
-              <i className="fab fa-github text-blueGray-700 absolute -top-150-px -right-100 left-auto opacity-80 text-55"></i>
-            </div>
-          </div>
-        </div>
-      </section>
 
       <section className="pb-16 bg-blueGray-200 relative pt-32">
         <div
@@ -622,40 +636,68 @@ export default function Index() {
             ></polygon>
           </svg>
         </div>
-
         <div className="container mx-auto">
           <div className="flex flex-wrap justify-center bg-white shadow-xl rounded-lg -mt-64 py-16 px-12 relative z-10">
             <div className="w-full text-center lg:w-8/12">
-              <p className="text-4xl text-center">
-                <span role="img" aria-label="love">
-                  😍
-                </span>
-              </p>
-              <h3 className="font-semibold text-3xl">
-                Do you love this Starter Kit?
-              </h3>
-              <p className="text-blueGray-500 text-lg leading-relaxed mt-4 mb-4">
-                Cause if you do, it can be yours now. Hit the buttons below to
-                navigate to get the Free version for your next project. Build a
-                new web app or give an old project a new look!
-              </p>
-              <div className="sm:block flex flex-col mt-10">
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/react/overview/notus?ref=nr-index"
-                  target="_blank"
-                  className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-                >
-                  Get started
-                </a>
-                <a
-                  href="https://github.com/creativetimofficial/notus-react?ref=nr-index"
-                  target="_blank"
-                  className="github-star sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
-                >
-                  <i className="fab fa-github text-lg mr-1"></i>
-                  <span>Help With a Star</span>
-                </a>
-              </div>
+            <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-blueGray-200">
+                  <div className="flex-auto p-5 lg:p-10">
+                    <h3 className="font-semibold text-3xl">
+                      ¿Deseas cotizar algún servicio?
+                    </h3>
+                    <p className="text-blueGray-500 text-lg leading-relaxed mt-4 mb-4">
+                      Contacta a los expertos, nosotros te asesoramos.
+                    </p>
+                    <div className="relative w-full mb-3 mt-8">
+                      <label
+                        className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
+                        htmlFor="full-name"
+                      >
+                        Nombre completo
+                      </label>
+                      <input
+                        type="text"
+                        className="border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
+                        placeholder="Nombre completo"
+                      />
+                    </div>
+
+                    <div className="relative w-full mb-3">
+                      <label
+                        className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
+                        htmlFor="email"
+                      >
+                        Correo electrónico
+                      </label>
+                      <input
+                        type="email"
+                        className="border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
+                        placeholder="Correo electrónico"
+                      />
+                    </div>
+
+                    <div className="relative w-full mb-3">
+                      <label
+                        className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
+                        htmlFor="Mensaje"
+                      >
+                        Mensaje
+                      </label>
+                      <textarea
+                        rows="4"
+                        cols="80"
+                        className="border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full"
+                        placeholder="Escribe un mensaje"
+                      />
+                    </div>
+                    <div className="text-center mt-6">
+                      <button
+                        className="bg-blueGray-800 text-white active:bg-blueGray-600 text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
+                        type="button" title="Presione para enviar cotización"
+                      > Enviar cotización
+                      </button>
+                    </div>
+                  </div>
+                </div>
               <div className="text-center mt-16"></div>
             </div>
           </div>
